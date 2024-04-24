@@ -1,7 +1,7 @@
-# Mon Vault Obsidian - Wiki Personnel
+# My Obsidian Vault - Personal Wiki
 
-Bienvenue dans mon repository Git dédié à mon vault Obsidian, un espace où je référence et organise mes connaissances.
+Welcome to my Git repository dedicated to my Obsidian vault, a space where I reference and organize my knowledge.
 
 ## Introduction
 
-Ce vault Obsidian a pour objectif de servir de référence personnelle pour mes connaissances. Utilisant Obsidian, un outil de prise de notes basé sur Markdown, je crée un espace interconnecté pour explorer, organiser et approfondir mes connaissances dans ces domaines.
+This Obsidian vault is intended to serve as a personal reference for my knowledge. Using Obsidian, a Markdown-based note-taking tool, I'm creating an interconnected space to explore, organize and deepen my knowledge in these areas.
