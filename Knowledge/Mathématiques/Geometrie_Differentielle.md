@@ -4,16 +4,16 @@ La géométrie différentielle est la branche des mathématiques qui utilise les
 
 ## Concepts de Base
 
-- **Courbes Paramétrées** : Définies par des fonctions \( \mathbf{r}(t) = (x(t), y(t), z(t)) \).
-- **Surfaces Paramétrées** : Définies par des fonctions \( \mathbf{r}(u,v) = (x(u,v), y(u,v), z(u,v)) \).
+- **Courbes Paramétrées** : Définies par des fonctions $  \mathbf{r}(t) = (x(t), y(t), z(t)) $ .
+- **Surfaces Paramétrées** : Définies par des fonctions $  \mathbf{r}(u,v) = (x(u,v), y(u,v), z(u,v)) $ .
 
 ## Courbure des Courbes
 
 1. **Courbure** : Mesure de la variation de la direction de la courbe.
-   - Formule : \( \kappa = \frac{| \mathbf{r}'(t) \times \mathbf{r}''(t) |}{|\mathbf{r}'(t)|^3} \)
+   - Formule : $  \kappa = \frac{| \mathbf{r}'(t) \times \mathbf{r}''(t) |}{|\mathbf{r}'(t)|^3} $ 
 
 2. **Torsion** : Mesure de la variation de la courbure.
-   - Formule : \( \tau = \frac{(\mathbf{r}'(t) \times \mathbf{r}''(t)) \cdot \mathbf{r}'''(t)}{| \mathbf{r}'(t) \times \mathbf{r}''(t) |^2} \)
+   - Formule : $  \tau = \frac{(\mathbf{r}'(t) \times \mathbf{r}''(t)) \cdot \mathbf{r}'''(t)}{| \mathbf{r}'(t) \times \mathbf{r}''(t) |^2} $ 
 
 ## Géométrie des Surfaces
 

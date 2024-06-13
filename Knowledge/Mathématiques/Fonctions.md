@@ -5,15 +5,15 @@ Une fonction est une relation entre un ensemble d'entrées et un ensemble de sor
 ## Types de Fonctions
 
 1. **Fonction linéaire**
-   - Forme : \( f(x) = ax + b \)
+   - Forme : $  f(x) = ax + b $ 
    - Graphique : Ligne droite.
 
 2. **Fonction quadratique**
-   - Forme : \( f(x) = ax^2 + bx + c \)
+   - Forme : $  f(x) = ax^2 + bx + c $ 
    - Graphique : Parabole.
 
 3. **Fonction exponentielle**
-   - Forme : \( f(x) = a \cdot e^{bx} \)
+   - Forme : $  f(x) = a \cdot e^{bx} $ 
    - Graphique : Courbe exponentielle.
 
 ## Propriétés des Fonctions
@@ -24,8 +24,8 @@ Une fonction est une relation entre un ensemble d'entrées et un ensemble de sor
 
 ## Opérations sur les Fonctions
 
-- **Addition** : \( (f+g)(x) = f(x) + g(x) \)
-- **Multiplication** : \( (f \cdot g)(x) = f(x) \cdot g(x) \)
-- **Composition** : \( (f \circ g)(x) = f(g(x)) \)
+- **Addition** : $  (f+g)(x) = f(x) + g(x) $ 
+- **Multiplication** : $  (f \cdot g)(x) = f(x) \cdot g(x) $ 
+- **Composition** : $  (f \circ g)(x) = f(g(x)) $ 
 
 [Retour à la page principale des mathématiques](maths.md)

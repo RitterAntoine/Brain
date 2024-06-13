@@ -5,16 +5,16 @@ Les pourcentages sont une manière de représenter une partie d'un tout sous la 
 ## Calcul des Pourcentages
 
 1. **Calculer un pourcentage d'un nombre**
-   - \( \text{Pourcentage} \times \text{Valeur Totale} = \text{Valeur Partielle} \)
-   - Exemple : 20% de 50 = \( 0.20 \times 50 = 10 \)
+   - $  \text{Pourcentage} \times \text{Valeur Totale} = \text{Valeur Partielle} $ 
+   - Exemple : 20% de 50 = $  0.20 \times 50 = 10 $ 
 
 2. **Trouver le pourcentage d'une valeur par rapport à une autre**
-   - \( \left( \frac{\text{Valeur Partielle}}{\text{Valeur Totale}} \right) \times 100 = \text{Pourcentage} \)
-   - Exemple : \( \left( \frac{25}{200} \right) \times 100 = 12.5% \)
+   - $  \left( \frac{\text{Valeur Partielle}}{\text{Valeur Totale}} \right) \times 100 = \text{Pourcentage} $ 
+   - Exemple : $  \left( \frac{25}{200} \right) \times 100 = 12.5% $ 
 
 3. **Augmentation et Réduction en Pourcentage**
-   - Augmentation : \( \text{Valeur Initiale} \times (1 + \frac{\text{Pourcentage}}{100}) \)
-   - Réduction : \( \text{Valeur Initiale} \times (1 - \frac{\text{Pourcentage}}{100}) \)
+   - Augmentation : $  \text{Valeur Initiale} \times (1 + \frac{\text{Pourcentage}}{100}) $ 
+   - Réduction : $  \text{Valeur Initiale} \times (1 - \frac{\text{Pourcentage}}{100}) $ 
 
 ## Applications des Pourcentages
 
