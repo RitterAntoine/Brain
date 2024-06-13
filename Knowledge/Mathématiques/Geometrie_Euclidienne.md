@@ -33,7 +33,7 @@ La géométrie euclidienne est la branche de la géométrie qui étudie les figu
 
 ## Théorèmes Importants
 
-1. **Théorème de Pythagore** : $  a^2 + b^2 = c^2 $  pour un triangle rectangle.
+1. **Théorème de Pythagore** : $a^2+b^2=c^2$ pour un triangle rectangle.
 2. **Théorème de Thalès** : Des rapports égaux de segments dans des triangles semblables.
 
 [Retour à la page principale des mathématiques](maths.md)

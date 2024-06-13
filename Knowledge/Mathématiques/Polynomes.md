@@ -20,6 +20,6 @@ Un polynôme est une expression algébrique composée de variables et de coeffic
 
 ## Zéros et Racines des Polynômes
 
-- Un zéro ou une racine d'un polynôme $P(x)$  est une valeur $  x $  telle que $P(x)=0$.
+- Un zéro ou une racine d'un polynôme $P(x)$  est une valeur $x$  telle que $P(x)=0$.
 
 [Retour à la page principale des mathématiques](maths.md)
