@@ -15,9 +15,9 @@ Les nombres entiers sont l'ensemble des nombres qui ne possèdent pas de partie 
 2. **Soustraction**
    - Inverse de l'addition : $a-b=a+(-b)$
 3. **Multiplication**
-   - Propriété commutative : $a\timesb=b\timesa$ 
-   - Propriété associative : $(a\timesb)\timesc=a\times(b\timesc)$
-   - Distributivité : $a\times(b+c)=(a\timesb)+(a\timesc)$
+   - Propriété commutative : $a\times b=b\times a$ 
+   - Propriété associative : $(a\times b)\times c=a\times(b\times c)$
+   - Distributivité : $a\times(b+c)=(a\times b)+(a\times c)$
 4. **Division**
    - N'est pas toujours définie pour les nombres entiers (par exemple, $\frac{5}{0}$ n'est pas défini).
 

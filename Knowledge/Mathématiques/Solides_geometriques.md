@@ -16,15 +16,15 @@ Les solides géométriques sont des objets tridimensionnels avec des surfaces pl
 ## Formules de Volume et Surface
 
 1. **Cylindre**
-   - Volume : $V=\pir^2h$
-   - Aire de surface : $A=2\pir(r+h)$
+   - Volume : $V=\pi r^2h$
+   - Aire de surface : $A=2\pi r(r+h)$
 
 2. **Cône**
-   - Volume : $V=\frac{1}{3}\pir^2h$
-   - Aire de surface : $A=\pir(r+l)$, où $l$ est la longueur de la génératrice.
+   - Volume : $V=\frac{1}{3}\pi r^2h$
+   - Aire de surface : $A=\pi r(r+l)$, où $l$ est la longueur de la génératrice.
 
 3. **Sphère**
-   - Volume : $V=\frac{4}{3}\pir^3$
-   - Aire de surface : $A=4\pir^2$
+   - Volume : $V=\frac{4}{3}\pi r^3$
+   - Aire de surface : $A=4\pi r^2$
 
 [Retour à la page principale des mathématiques](maths.md)

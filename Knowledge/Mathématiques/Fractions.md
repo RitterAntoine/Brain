@@ -15,7 +15,7 @@ Les fractions représentent une partie d'un tout. Elles sont exprimées sous la 
    - Différent dénominateur : Trouver un dénominateur commun avant d'ajouter ou de soustraire.
 
 2. **Multiplication**
-   - $\frac{a}{b}\times\frac{c}{d}=\frac{a\timesc}{b\timesd}$ 
+   - $\frac{a}{b}\times\frac{c}{d}=\frac{a\times c}{b\times d}$ 
 
 3. **Division**
    - $\frac{a}{b}\div\frac{c}{d}=\frac{a}{b}\times\frac{d}{c}$ 
