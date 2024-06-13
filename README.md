@@ -1,7 +1,58 @@
-# My Obsidian Vault - Personal Wiki
+# Wiki Personnel
 
-Welcome to my Git repository dedicated to my Obsidian vault, a space where I reference and organize my knowledge.
+Bienvenue sur mon wiki personnel ! Ce repo est dédié à la collecte et à l'organisation de mes connaissances sur divers sujets. Que ce soit des cours, des articles, des notes de lecture ou des réflexions personnelles, tout se trouve ici. J'espère que ce wiki sera un outil précieux pour approfondir mes compétences et mon savoir.
 
-## Introduction
+## Introduction à la Connaissance
 
-This Obsidian vault is intended to serve as a personal reference for my knowledge. Using Obsidian, a Markdown-based note-taking tool, I'm creating an interconnected space to explore, organize and deepen my knowledge in these areas.
+La connaissance est un concept fondamental dans notre compréhension du monde. Elle englobe les faits, les informations, les compétences et les expériences que nous acquérons à travers l'apprentissage et la pratique. La connaissance peut être théorique, comme les concepts scientifiques, ou pratique, comme les compétences techniques.
+
+### Types de Connaissance
+
+1. **Connaissance déclarative** : Savoir quoi. Par exemple, connaître des faits ou des événements historiques.
+2. **Connaissance procédurale** : Savoir comment. Par exemple, savoir comment réparer un moteur ou écrire du code.
+3. **Connaissance conditionnelle** : Savoir quand et pourquoi. Par exemple, comprendre quand utiliser une stratégie particulière ou pourquoi une solution fonctionne mieux qu'une autre.
+4. **Connaissance métacognitive** : Savoir sur le savoir. Par exemple, être conscient de ses propres processus de pensée et de son style d'apprentissage.
+
+### Les Sources de la Connaissance
+
+- **Perception sensorielle** : Ce que nous apprenons à travers nos sens.
+- **Raisonnement et logique** : Ce que nous déduisons ou inférons.
+- **Témoignages et sources** : Ce que nous apprenons des autres.
+- **Introspection** : Ce que nous découvrons en réfléchissant à nos propres pensées et sentiments.
+- **Expériences** : Ce que nous apprenons par l'expérience pratique.
+
+### Importance de la Connaissance
+
+La connaissance est essentielle pour :
+
+- **La prise de décision** : Plus nous savons, mieux nous pouvons décider.
+- **L'innovation et la créativité** : La connaissance alimente notre capacité à créer et innover.
+- **Le développement personnel et professionnel** : L'apprentissage continu est crucial pour la croissance dans tous les aspects de la vie.
+- **La compréhension du monde** : Elle nous aide à interpréter et à interagir avec notre environnement de manière significative.
+
+## Objectifs du Wiki
+
+1. **Centraliser l'information** : Rassembler toutes mes notes et connaissances en un seul endroit.
+2. **Faciliter l'apprentissage continu** : Créer une ressource facilement accessible pour approfondir et réviser.
+3. **Partager le savoir** : Potentiellement ouvrir ce wiki à d'autres pour collaborer et échanger des idées.
+
+## Comment Utiliser ce Wiki
+
+- **Navigation** : Utilisez le menu pour parcourir les différents sujets.
+- **Recherches** : Utilisez la fonction de recherche pour trouver des informations spécifiques.
+- **Contributions** : Ajoutez vos propres notes et connaissances pour enrichir le contenu.
+
+Je vous invite à explorer, apprendre et contribuer à ce vaste domaine qu'est la connaissance. Bon voyage intellectuel !
+
+---
+
+**Table des matières :**
+
+1. [Mathématiques](maths.md)
+2. [Sciences Naturelles](sciences_naturelles.md)
+3. [Histoire](histoire.md)
+4. [Technologie](technologie.md)
+5. [Philosophie](philosophie.md)
+6. [Arts](arts.md)
+7. [Développement Personnel](developpement_personnel.md)
+8. [Langues](langues.md)
