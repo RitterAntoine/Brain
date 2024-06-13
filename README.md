@@ -48,11 +48,10 @@ Je vous invite à explorer, apprendre et contribuer à ce vaste domaine qu'est l
 
 **Table des matières :**
 
-1. [Mathématiques](maths.md)
-2. [Sciences Naturelles](sciences_naturelles.md)
-3. [Histoire](histoire.md)
-4. [Technologie](technologie.md)
-5. [Philosophie](philosophie.md)
-6. [Arts](arts.md)
-7. [Développement Personnel](developpement_personnel.md)
-8. [Langues](langues.md)
+1. [Mathématiques](Knowledge/Mathématiques/Mathématiques.md)
+2. [Sciences Naturelles](Knowledge/Sciences_Naturelles/Sciences_Naturelles.md)
+3. [Histoire](Knowledge/Histoire/Histoire.md)
+4. [Technologie](Knowledge/Technologie/Technologie.md)
+5. [Philosophie](Knowledge/Philosophie/Philosophie.md)
+6. [Arts](Knowledge/Arts/Arts.md)
+8. [Langues](Knowledge/Langues/Langues.md)
