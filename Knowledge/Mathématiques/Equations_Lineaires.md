@@ -10,7 +10,7 @@ Une équation linéaire est une équation algébrique de la forme $ax+b=0$ , où
    - $x=-\frac{b}{a}$ 
 
 2. **Systèmes d'Équations Linéaires**
-   - Système de deux équations : $\begin{cases}a_1x+b_1y=c_1 \\ a_2x+b_2y=c_2\end{cases}$ 
+   - Système de deux équations : $`\begin{cases}a_1x+b_1y=c_1 \\ a_2x+b_2y=c_2\end{cases}`$ 
    - Méthodes de résolution : Substitution, élimination, matrices.
 
 ## Applications des Équations Linéaires
