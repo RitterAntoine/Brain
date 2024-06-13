@@ -10,16 +10,16 @@ Les nombres entiers sont l'ensemble des nombres qui ne possèdent pas de partie 
 ### Opérations avec les Nombres Entiers
 
 1. **Addition**
-   - Propriété commutative : $  a + b = b + a $ 
-   - Propriété associative : $  (a + b) + c = a + (b + c) $ 
+   - Propriété commutative : $a+b=b+a$
+   - Propriété associative : $(a+b)+c=a+(b+c)$
 2. **Soustraction**
-   - Inverse de l'addition : $  a - b = a + (-b) $ 
+   - Inverse de l'addition : $a-b=a+(-b)$
 3. **Multiplication**
-   - Propriété commutative : $  a \times b = b \times a $ 
-   - Propriété associative : $  (a \times b) \times c = a \times (b \times c) $ 
-   - Distributivité : $  a \times (b + c) = (a \times b) + (a \times c) $ 
+   - Propriété commutative : $a\timesb=b\timesa$ 
+   - Propriété associative : $(a\timesb)\timesc=a\times(b\timesc)$
+   - Distributivité : $a\times(b+c)=(a\timesb)+(a\timesc)$
 4. **Division**
-   - N'est pas toujours définie pour les nombres entiers (par exemple, $  \frac{5}{0} $  n'est pas défini).
+   - N'est pas toujours définie pour les nombres entiers (par exemple, $\frac{5}{0}$ n'est pas défini).
 
 ### Applications des Nombres Entiers
 
