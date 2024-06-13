@@ -5,7 +5,7 @@ Une fonction est une relation entre un ensemble d'entrées et un ensemble de sor
 ## Types de Fonctions
 
 1. **Fonction linéaire**
-   - Forme : $  f(x) = ax + b $ 
+   - Forme : $f(x) = ax + b$ 
    - Graphique : Ligne droite.
 
 2. **Fonction quadratique**
