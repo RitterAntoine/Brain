@@ -10,7 +10,7 @@ To begin, download and install "Windows Terminal" from the Microsoft Store.
 
 Next, install a font for your terminal. You can find fonts on the [Nerd Fonts](https://www.nerdfonts.com/) website.
 
-We recommend using the "ProFont Nerd Font," which you can download [here](https://github.com/ryanoasis/nerd-fonts/releases/download/v3.2.1/ProFont.zip).
+I recommend using the "ProFont Nerd Font," which you can download [here](https://github.com/ryanoasis/nerd-fonts/releases/download/v3.2.1/ProFont.zip).
 
 To install the font:
 1. Unzip the downloaded file.
